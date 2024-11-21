@@ -41,10 +41,6 @@ const CompareProduct = () => {
                     <p>In Stock</p>
                   </div>
                   <div className="product-detail">
-                    <h5>Color:</h5>
-                    <Color />
-                  </div>
-                  <div className="product-detail">
                     <h5>Size:</h5>
                     <div className="d-flex gap-10">
                       <p>S</p>
@@ -83,10 +79,6 @@ const CompareProduct = () => {
                   <div className="product-detail">
                     <h5>Availablity:</h5>
                     <p>In Stock</p>
-                  </div>
-                  <div className="product-detail">
-                    <h5>Color:</h5>
-                    <Color />
                   </div>
                   <div className="product-detail">
                     <h5>Size:</h5>
